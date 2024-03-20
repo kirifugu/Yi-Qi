@@ -1,1 +1,13 @@
 .A{color: green;}
+  a {font-weight:bold;
+  text-decoration:none;}
+  a:link{
+    color:darkolivegreen
+  }
+  a:visited{color:blueviolet}
+.YiQi{ font-size: 16 px;
+    font-weight: 600;
+    line-height: 1.4em;
+    padding: 5px;
+    background-color:silver;
+}
